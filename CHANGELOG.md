@@ -1,6 +1,7 @@
 # Changelog
 
-## 3.2.1
+## 3.3.0
+- Glob patterns for Windows
 - Updated deps in package.json
 
 # 3.2.0
